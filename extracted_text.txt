@@ -1,0 +1,55 @@
+Title of the Project | Deep Learning Based Pneumonia Diagnosis Using Chest X-ray Images
+| Class/Section BS IT 6A
+
+Details of Group Name: Muhammad Taimoor Ather | Saira Riasat___
+
+Members Enrolment: | 01-135202-065 01-135202-081
+
+Which real world
+problem shall be
+
+The real-world problem that can be addressed in our project on
+
+pneumonia diagnosis is the accurate and efficient detection of
+ais a common and
+
+Description (what,
+how, scope, and
+objectives)
+
+| solved by the Pneumonia using chest X-ray images. Pneumo
+project? potentially life-threatening respiratory infection that affects millions of
+people worldwide. Timely and accurate diagnosis is crucial for initiating
+appropriate treatment and improving patient outcome |
+Brief Project By developing a deep learning-based pneumonia diagnosis system
+
+using chest X-ray images, your project aims to automate the process of
+identifying pneumonia cases. This can provide several practical
+benefits:
+
+1. Early detection: Automating the diagnosis can help identify
+pneumonia cases at an early stage, enabling prompt medical
+intervention and treatment initiation.
+
+Efficiency and scalability: A well-trained deep learning model
+can quickly process large numbers of chest X-ray images,
+making the diagnosis process more efficient and scalable. This
+can help streamline healthcare workflows and reduce the
+burden on healthcare professionals.
+
+3. Access to expertise: In areas where access to specialized
+healthcare professionals is limited, a reliable automated_
+diagnosis system can help extend medical expertise and
+improve healthcare outcomes for patients with pneumonia.
+
+4, Reducing human error: Automating the diagnosis can minimize
+the risk of human error and subjective interpretation, leading to
+more consistent and reliable results.
+
+By addressing the problem of accurate pneumonia detection, your
+project can contribute to improving patient care, optimizing healthcare
+resources, and potentially saving lives by facilitating timely and
+accurate diagnoses.
+
+x
+
